@@ -24,15 +24,15 @@ Outside of tech, I’m a professional **Bharathanatyam dancer** 💃 and love **
 
 ## 🚀 What I do
 
-- 🛰 **Earth observation & geospatial analytics**  
-  - Satellite-based monitoring (Landsat, Sentinel-2, Constellr LST, NASA EO datasets)  
-  - Thermal anomaly detection at Nuclear Power Plants. 
-  - Land suitability modelling for sustainable agriculture.
-
 - 🧱 **Data engineering & cloud**  
   - Built and maintained data lakes & ETL pipelines across **AWS**, **Azure**, and **Snowflake**.  
   - Streaming and batch pipelines using **Kafka**, **NiFi**, **Storm**, **Spark**, and **Hadoop ecosystem**. 
   - Infrastructure-as-code & CI/CD with **Terraform**.
+
+- 🛰 **Earth observation & geospatial analytics**  
+  - Satellite-based monitoring (Landsat, Sentinel-2, Constellr LST, NASA EO datasets)  
+  - Thermal anomaly detection at Nuclear Power Plants. 
+  - Land suitability modelling for sustainable agriculture.
 
 - 📊 **Analytics, BI & storytelling**  
   - Dashboards and analytics in **Power BI**, **Tableau**, **QlikSense**  
@@ -161,7 +161,7 @@ Outside of tech, I’m a professional **Bharathanatyam dancer** 💃 and love **
 - 📍 Based in Bristol, UK  
 - 💬 Open to roles in Data Engineering, Data Science, and Geospatial / Earth Observation analytics
 
-> If you’re working with geospatial, Earth observation, or data-heavy systems and want to chat, collaborate, or just geek out about data, I’d love to connect.
+> If you’re working with geospatial, Earth observation, or data-pipelines and want to chat, collaborate, or just geek out about data, I’d love to connect.
 
 
 
