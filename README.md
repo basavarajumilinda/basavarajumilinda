@@ -3,18 +3,7 @@
   </a>
 </p></h1>
 
-
-<p align="center">
-  Data Engineering Analyst | Geospatial & Earth Observation 🌍 | MSc Data Science @ University of Bristol (Distinction)
-  <br />
-  Open to: Data Engineer · Data Scientist · Data / Geospatial Analyst roles
-  <br /><br />
-
----
-
 ## 👩‍💻 About me
-
-# Milinda Basavaraju
 
 🔧 Data Engineer with 4+ years of experience building scalable cloud pipelines, analytical data models, and geospatial intelligence solutions.  
 🌍 MSc Data Science (Distinction) from the University of Bristol.  
